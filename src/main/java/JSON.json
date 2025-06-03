@@ -1,14 +1,13 @@
-
 {
-        "birthday": {
-        "day": 13,
-        "month": 6,
-        "year": 1999
-        },
-        "name": "Иван",
-        "passport": "4444 № 44444444",
-        "patronymic": "Иванович",
-        "phone": "+7 (999)-999-99-99",
-        "surname": "Иванов",
-        "subscription": true
-        }
+  "birthday": {
+    "day": 13,
+    "month": 6,
+    "year": 1999
+  },
+  "name": "Иван",
+  "passport": "4444 № 44444444",
+  "patronymic": "Иванович",
+  "phone": "+7 (999)-999-99-99",
+  "surname": "Иванов",
+  "subscription": true
+}
